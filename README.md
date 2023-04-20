@@ -26,7 +26,9 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 ## Usage
 
-Navigate to the website in your browser:
+Navigate to the website in your browser: <br>
+
+https://ldom3976.github.io/my-portfolio
 
 To see the deployed apps, click on the project title located on the project image.
 
@@ -39,4 +41,4 @@ To see the deployed apps, click on the project title located on the project imag
 ## Links
 
 - [Github repo](https://github.com/ldom3976/my-portfolio)
-- [Deployed Website]
+- [Deployed Website](https://ldom3976.github.io/my-portfolio)
